@@ -1,0 +1,4 @@
+Flask==latest
+python==latest
+pip3
+
